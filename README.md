@@ -7,7 +7,7 @@ This project implements an agricultural irrigation system using a Real-Time Oper
 * Close valve 3, open pump 1 for 10 seconds
 * Turn off pump 1, turn on pump 2 for 30 seconds
 * Finally, turn off pump 2. <br />
-After this process, the system will repeat the above steps every 60 seconds.
+Upon completion, the system will repeat these steps every 60 seconds.
 
 ## Hardware Requirements
 * Microcontroller (STM32)
