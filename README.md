@@ -21,8 +21,8 @@ After this process, the system will repeat the above steps every 60 seconds.
 
 ## Project Structure
 * *main.c*: the main code for running the irrigation system
-* *scheduler.c* and *scheduler.h*: code for the cooperative scheduler
-* *software_timer.c* and *software_timer.h*: code for the timer
+* **_scheduler.c_** and **_scheduler.h_**: code for the cooperative scheduler
+* **_software_timer.c_** and **_software_timer.h_**: code for the timer
 
 ## References
 * STM32Cube Documentation: https://www.st.com/en/ecosystems/stm32cube
